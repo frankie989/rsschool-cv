@@ -36,6 +36,7 @@ I started studying programming in 2020 on my own, I made a lot of mistakes. And 
 ### Code example:
 How to calculate the maximum profit of selling a stock from a chart for a certain period of time.
 We can buy and sell as many times as we want.
+```
 let pricesOne = [1,7,2,6,2,5,4]; // in such a result, it should return 13
 let pricesTwo = [7,6,4,3,1]; // in such a result, it should return 0
 let maxProfit = function(prices) {
@@ -50,6 +51,7 @@ return result;
 }
 console.log(maxProfit(pricesOne)); //13
 console.log(maxProfit(pricesTwo)); //0
+```
 *******
 
 ### Experience
@@ -66,4 +68,3 @@ I have no experience as a programmer.
 * Russian native
 * English intermediate
 ![language](./img/language.png "Результат тестирования")
-**********
