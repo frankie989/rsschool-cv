@@ -10,7 +10,7 @@
 *********
 
 ### About me 
-********
+
 
 I have received several awards in my life. I graduated from a technical school with a degree in maintenance and repair of cars and a university with a degree in Economics and Enterprise Management.
 
