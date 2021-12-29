@@ -9,9 +9,9 @@
 **email:** alexey.filatov2112@gmail.com
 *********
 
-### About me
+### About me 
+********
 
- 
 I have received several awards in my life. I graduated from a technical school with a degree in maintenance and repair of cars and a university with a degree in Economics and Enterprise Management.
 ----
 For about 5 years he worked as a shop mechanic in a managerial position. In my subordination there were 5 divisions with a total number of more than 100 people.
