@@ -13,12 +13,12 @@
 ********
 
 I have received several awards in my life. I graduated from a technical school with a degree in maintenance and repair of cars and a university with a degree in Economics and Enterprise Management.
-----
+
 For about 5 years he worked as a shop mechanic in a managerial position. In my subordination there were 5 divisions with a total number of more than 100 people.
------
+
 I have organized a logistics company and have been doing business for 4 years. As a director, I built a sales department and a logistics department. He sold the company in September 2020.
 The company has been functioning up to the present time.
-----
+
 I started studying programming in 2020 on my own, I made a lot of mistakes. And I'm not working in this specialty yet, but I really want to finish the course at RS School and get my first job offer.
 **********
 
