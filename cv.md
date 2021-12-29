@@ -7,7 +7,7 @@
 **Phone:** +7-9000-777-882
 
 **email:** alexey.filatov2112@gmail.com
-*********
+***
 
 ### About me 
 
@@ -20,7 +20,7 @@ I have organized a logistics company and have been doing business for 4 years. A
 The company has been functioning up to the present time.
 
 I started studying programming in 2020 on my own, I made a lot of mistakes. And I'm not working in this specialty yet, but I really want to finish the course at RS School and get my first job offer.
-**********
+***
 
 ### Skills
 * HTML
@@ -31,7 +31,7 @@ I started studying programming in 2020 on my own, I made a lot of mistakes. And 
 * Figma
 * Adobe Photoshop, Illustrator, Premiere Pro CC.
 * VS Code
-********
+***
 
 ### Code example:
 How to calculate the maximum profit of selling a stock from a chart for a certain period of time.
@@ -52,7 +52,7 @@ return result;
 console.log(maxProfit(pricesOne)); //13
 console.log(maxProfit(pricesTwo)); //0
 ```
-*******
+***
 
 ### Experience
 
@@ -62,7 +62,7 @@ I have no experience as a programmer.
 * HTML Academy
 * learn.javascript
 * Hexlet Introduction to Programming
-*******
+***
 
 ### Languages
 * Russian native
