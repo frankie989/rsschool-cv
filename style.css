@@ -1,0 +1,37 @@
+body {
+	position: relative;
+  padding: 20px;
+	margin: 0 auto;
+	min-width: 630px;
+  max-width: 1000px;
+	font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
+	line-height: 32px;	
+}
+
+.flex {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.prof {
+	animation: text_color 3s ease infinite;
+}
+@keyframes text_color {
+	0% {
+		color: #f88070;
+		text-shadow: 0 0 0.7rem #f88070, 0 0 0.1rem #f88070;
+	}
+	33.333% {
+		color: #393dfb;
+		text-shadow: 0 0 0.5rem #393dfb, 0 0 0.1rem #393dfb;
+	}
+	66.666% {
+		color: #3cf33c;
+		text-shadow: 0 0 0.5rem #3cf33c, 0 0 0.1rem #3cf33c;
+	}
+	99.999% {
+		color: #f88070;
+		text-shadow: 0 0 0.5rem #f88070, 0 0 0.1rem #f88070;
+	}
+}
