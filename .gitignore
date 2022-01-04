@@ -1,0 +1,12 @@
+# NPM library folder
+node_modules
+
+# Finder
+.DS_Store
+
+# map files
+*.map
+
+# IDE seeting files
+.idea
+.vscode
