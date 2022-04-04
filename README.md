@@ -1,3 +1,3 @@
 # rsschool-cv
-- [task: 1](https://frankie989.github.io/rsschool-cv/cv)
-- [task: 2](https://frankie989.github.io/rsschool-cv/)
+- [CV. Markdown](https://frankie989.github.io/rsschool-cv/cv)
+- [CV. HTML/CSS](https://frankie989.github.io/rsschool-cv/)
